@@ -1,6 +1,6 @@
 # Hi, I'm Bruno A. Freitas 👋
 
-Doctoral candidate at **Insper** (São Paulo) and a senior **public-private partnership (PPP)** practitioner at **Radar PPP**. I work at the intersection of research and practice.
+Doctoral candidate at **Insper** (São Paulo) and a senior **public-private partnership (PPP)** practitioner at **Radar PPP**. I work at the intersection of research and practice. My website is: https://brunofreitas91.github.io/
 
 🔬 **Research question I care about:** how do political institutions shape strategic decisions and the performance of complex public contracts? PPPs are my main laboratory — from adoption to renegotiation.
 
