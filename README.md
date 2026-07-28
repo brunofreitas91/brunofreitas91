@@ -9,8 +9,9 @@
 ### 📌 Selected work
 
 - **Who Gets to Compete? Institutional Barriers to Entry and Competition in Brazilian PPP Auctions** — working paper (preprint forthcoming, SSRN).
-- **The Effect of Political Ideology on PPP Contracts in Brazilian Municipalities: Evidence from Close Elections** — working paper, presented at MPSA 2025 (from the master's dissertation).
-- **Credible Nulls in Close-Election Regression Discontinuity Designs** — under review; pre-registered equivalence tests.
+- **The Effect of Political Ideology on PPP Contracts in Brazilian Municipalities: Evidence from Close Elections** — working paper (http://dx.doi.org/10.2139/ssrn.7112699), presented at MPSA 2025 (from the master's dissertation).
+- **Credible Nulls in Close-Election Regression Discontinuity Designs** — under review.
+- **A Reforma Gerencial e as Parcerias Público-Privadas no Brasil: a ideologia político-partidária importa?** — — under review.
 - **Politics after Contracting: renegotiation and the political economy of long-term public contracts** — in progress, with Sergio G. Lazzarini.
 
 ➡️ **Latest work:** [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=12338348) · full list on [ORCID](https://orcid.org/0009-0002-4130-7140) and [Google Scholar](https://scholar.google.com/citations?user=Rp4JDGsAAAAJ&hl=pt-BR).
