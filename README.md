@@ -34,6 +34,7 @@ I believe empirical research should be transparent, reproducible, and connected 
 
 ### 📝 Writing for practice
 
+- [Parcerias público-privadas e o risco que ninguém transferiu](https://mundologistica.com.br/colunistas/bruno-freitas/parcerias-publico-privadas-risco-ninguem-transferiu) — *Mundo Logística* (Insper column), 2026. Why risk allocation - not risk transfer - drives a PPP's success, read as a long-term supply chain.
 - [Como os serviços públicos são oferecidos?](https://www.politize.com.br/como-servicos-publicos-sao-prestados/) — *Politize!*, 2021. How public services are delivered: NPM, concessions, PPPs, and the third sector.
 - [Crise financeira de 2008: você sabe o que aconteceu?](https://www.politize.com.br/crise-financeira-de-2008/) — *Politize!*, 2020. A plain-language primer on the 2008 global financial crisis.
 
